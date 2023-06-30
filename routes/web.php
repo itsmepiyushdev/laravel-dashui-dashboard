@@ -19,4 +19,16 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+//User Routes
+Route::middleware(['auth','user-role:user'])->group(function()
+{
+    Route::get("/home",[App\Http\Controllers\HomeController::class, 'userHome'])->name("home");
+});
+
+//Admin Routes
+Route::middleware(['auth','user-role:admin'])->group(function()
+{
+    Route::get("/admin/home",[App\Http\Controllers\HomeController::class, 'adminHome'])->name("admin.home");
+
+});
+
