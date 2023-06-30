@@ -162,15 +162,15 @@
                                 <td class="align-middle">
                                     <div class="avatar-group">
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-1.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-1.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-2.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-2.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-3.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-3.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm avatar-primary">
@@ -198,7 +198,7 @@
                                         <div>
                                             <div class="icon-shape icon-md border p-4
                 rounded-1">
-                                                <img src="admin_assets/images/brand/slack-logo.svg" alt="">
+                                                <img src="{{asset('admin_assets/images/brand/slack-logo.svg')}}" alt="">
                                             </div>
                                         </div>
                                         <div class="ms-3 lh-1">
@@ -214,15 +214,15 @@
                                 <td class="align-middle">
                                     <div class="avatar-group">
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-4.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-4.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-5.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-5.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-6.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-6.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm avatar-primary">
@@ -249,7 +249,7 @@
                                         <div>
                                             <div class="icon-shape icon-md border p-4
                 rounded-1">
-                                                <img src="admin_assets/images/brand/github-logo.svg" alt="">
+                                                <img src="{{asset('admin_assets/images/brand/github-logo.svg')}}" alt="">
                                             </div>
                                         </div>
                                         <div class="ms-3 lh-1">
@@ -263,15 +263,15 @@
                                 <td class="align-middle">
                                     <div class="avatar-group">
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-7.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-7.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-8.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-8.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-9.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-9.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm avatar-primary">
@@ -298,7 +298,7 @@
                                         <div>
                                             <div class="icon-shape icon-md border p-4
                 rounded-1">
-                                                <img src="admin_assets/images/brand/3dsmax-logo.svg" alt="">
+                                                <img src="{{asset('admin_assets/images/brand/3dsmax-logo.svg')}}" alt="">
                                             </div>
                                         </div>
                                         <div class="ms-3 lh-1">
@@ -314,15 +314,15 @@
                                 <td class="align-middle">
                                     <div class="avatar-group">
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-10.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-10.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-11.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-11.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-12.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-12.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm avatar-primary">
@@ -350,7 +350,7 @@
                                             <div
                                                 class="icon-shape icon-md border p-4 rounded
                 bg-primary">
-                                                <img src="admin_assets/images/brand/layers-logo.svg" alt="">
+                                                <img src="{{asset('admin_assets/images/brand/layers-logo.svg')}}" alt="">
                                             </div>
                                         </div>
                                         <div class="ms-3 lh-1">
@@ -367,15 +367,15 @@
                                 <td class="align-middle">
                                     <div class="avatar-group">
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-13.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-13.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-14.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-14.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm">
-                                            <img alt="avatar" src="admin_assets/images/avatar/avatar-15.jpg"
+                                            <img alt="avatar" src="{{asset('admin_assets/images/avatar/avatar-15.jpg')}}"
                                                 class="rounded-circle">
                                         </span>
                                         <span class="avatar avatar-sm avatar-primary">
@@ -403,7 +403,7 @@
             align-items-center">
                                         <div>
                                             <div class="icon-shape icon-md border p-4 rounded-1">
-                                                <img src="admin_assets/images/brand/github-logo.svg" alt="">
+                                                <img src="{{asset('admin_assets/images/brand/github-logo.svg')}}" alt="">
                                             </div>
                                         </div>
                                         <div class="ms-3 lh-1">
