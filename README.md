@@ -45,11 +45,12 @@ Once logged in we can see below screen.
 
 
 ## Screenshots
+<img width="513" alt="DashUIRegister" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/775c62db-c758-4d96-9852-0f71103efd59">
 
-<img width="513" alt="DashUIRegister" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/d6a70036-5830-4ec4-b257-dbc670c1c8bc">
+ <img width="513" alt="DashUILogin" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/636a1f4e-a858-40bc-b3fd-5ac8e828683b">
+ 
+ <img width="513" alt="AdminDashboard" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/e2a00f06-db82-4a26-8046-3ec9e19db53f">
 
-<img width="513" alt="DashUILogin" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/25bf7dec-7b97-413f-9c29-c798a7eafbd9">
+ 
+<img width="513" alt="UserDashboard" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/485f7ab7-bcb9-471e-b7fa-1d3d4b5bfae2">
 
-<img width="513" alt="AdminDashboard" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/4acef11a-b052-4b0d-9ea9-4802b8fb2c3b">
-
-<img width="513" alt="UserDashboard" src="https://github.com/itsmepiyushdev/laravel-dashui-dashboard/assets/53112560/73a45c6b-5aac-42d9-ad35-d1013b6b564e">
